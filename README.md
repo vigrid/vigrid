@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please enjoy the source code of a couple of projects I worked on years ago and decided to share the source code.
+
 <!--
 **vigrid/vigrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
